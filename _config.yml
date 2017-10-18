@@ -13,17 +13,17 @@ style: styles-6
 
 
 #Profile information
-name: Alex Salgado
-tagline: Professor
-pic: alex.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+name: Daniel Campanha
+tagline: Estagiário
+pic: daniel.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: daniel.campanha@lasallerj.edu.br
+phone: +5521 96421-3408
+website: https://www.linkedin.com/in/daniel-campanha-87423abb/ #do not add http://
+linkedin: danielcampanha
+github: https://github.com/danielcampanha
+twitter: '@dbcampanha'
 
 
 # Tracker
